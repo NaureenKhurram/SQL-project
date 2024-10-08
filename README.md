@@ -1,6 +1,6 @@
 # SQL-project
 
-This project was done completed using PostgreSQL and the data (restaurant takeaway orders) was acquired from kaggle (link to data: https://www.kaggle.com/datasets/henslersoftware/19560-indian-takeaway-orders).
+This project was completed using PostgreSQL and the data (restaurant takeaway orders) was acquired from kaggle (link to data: https://www.kaggle.com/datasets/henslersoftware/19560-indian-takeaway-orders).
 
 This dataset provided details of takeaway orders for two indian restaurants located in London, UK.  However, the project used data for only one restaurant (containing over 74000 records).
 
